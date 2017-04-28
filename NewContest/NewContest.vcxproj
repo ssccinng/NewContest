@@ -110,6 +110,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="A.physics.cpp" />
+    <ClCompile Include="B.Two.cpp" />
+    <ClCompile Include="F.The All-purpose Zero.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

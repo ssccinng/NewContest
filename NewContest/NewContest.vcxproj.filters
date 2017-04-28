@@ -13,5 +13,19 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\2017年春夏学期周赛 0428">
+      <UniqueIdentifier>{22210a7f-b94f-447d-9131-dd35fcd575da}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="A.physics.cpp">
+      <Filter>源文件\2017年春夏学期周赛 0428</Filter>
+    </ClCompile>
+    <ClCompile Include="B.Two.cpp">
+      <Filter>源文件\2017年春夏学期周赛 0428</Filter>
+    </ClCompile>
+    <ClCompile Include="F.The All-purpose Zero.cpp">
+      <Filter>源文件\2017年春夏学期周赛 0428</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
